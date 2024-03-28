@@ -15,4 +15,7 @@ Some Custom Map for CARLA Simulator
 ![Example map](Images/Example.png)
 - Example_2
 ![Example_2 map](Images/Example_2.png)
+- Elevation 3
+![Elevation_3 map](Images/Elevation_3.png)
+
 
